@@ -23,7 +23,7 @@ NumPy, Pandas | Matplotlib / Seaborn
 h5py for dataset handling
 
 🎯 Quick Start
-git clone https://github.com/yourusername/svhn-digit-recognition.git
+git clone https://github.com/rishovm/Pixel2Number.git
 cd svhn-digit-recognition
 pip install -r requirements.txt
 python train_model.py
